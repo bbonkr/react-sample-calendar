@@ -1,2 +1,1 @@
-# react-sample-calendar
-Created with CodeSandbox
+[moment.js](https://momentjs.com/docs/)
